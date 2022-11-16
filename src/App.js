@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React Deploy ECS
+          Hello Ban Thuong
         </a>
       </header>
     </div>
