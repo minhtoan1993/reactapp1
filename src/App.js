@@ -1,5 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
+import UserList from './User/UserList.js';
+ 
 
 function App() {
   return (
@@ -15,8 +17,9 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Hello Ban Thuong
+          
         </a>
+        <UserList />
       </header>
     </div>
   );
